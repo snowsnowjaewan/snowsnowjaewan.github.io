@@ -3,12 +3,12 @@
   <head>
     <meta charset = "utf-8">
     <title>재완이의사이트</title>
-    <color>
+    <style>
     h1
     {
     color : black
     }
-    </color>
+    </style>
     </head>
     
     
