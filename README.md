@@ -14,10 +14,10 @@
     
     <body>
     
-    <h1>안녕 난 재완이임</h1> 
-    <p>이거 만드는 것 좀 재밌는 듯 ㅋㅋ</p>
+    <h1>ㅎㅇ</h1> 
+    <p>ㅎㅇ </p>
     
-    <h2> <strong>이런 거 만드는 거 궁금하면 https://ko.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics 에 들가봐 잼씀 !! 그리고 사이트 만드는 건 github 에서!</strong></h2>
+    <h2> <strong>예시용사이트!</strong></h2>
     
     
     </body>
